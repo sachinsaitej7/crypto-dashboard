@@ -11,7 +11,6 @@ const App = () => {
         errorRetryCount: 3,
         errorRetryInterval: 1300,
         revalidateOnFocus: true,
-        suspense: true,
       }}
     >
       <AntThemeProvider>
